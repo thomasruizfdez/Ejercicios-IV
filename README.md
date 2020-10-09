@@ -1,7 +1,7 @@
 # Ejercicios-IV
 Ejercicios de la asignatura Infraestructura Virtual 2020-2021
 
-## Ejercicios Tema 1  
+## Ejercicios Tema Introducción   
 ### Ejercicio 1  
 **Consultar en el catálogo de alguna tienda de informática el precio de un ordenador tipo servidor y calcular su coste de amortización a cuatro y siete años.**  
 Si comprásemos [este servidor](https://www.pccomponentes.com/servidor-fujitsu-primergy-intel-xeon-e3-1225v6-8gb-2tb) que cuesta 666€, ya que el valor de amortización está regulado a un 25% anual.
